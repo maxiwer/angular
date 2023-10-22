@@ -10,7 +10,7 @@ Template-driven forms use [two-way data binding](guide/architecture-components#d
 
 Angular supports two design approaches for interactive forms.
 You can build forms by using Angular [template syntax and directives](guide/glossary#template "Definition of template terms") to write templates with the form-specific directives.
-This tutorial describes the directives and techniques to use when writing templates. You can also use a reactive or model-driven approach to build forms.
+This tutorial describes the directives and techniques to use when writing templates. You can also use a reactive (also known as model-driven) approach to build forms.
 
 Template-driven forms are suitable for small or simple forms, while reactive forms are more scalable and suitable for complex forms.
 For a comparison of the two approaches, see [Introduction to Forms](guide/forms-overview "Overview of Angular forms.")
